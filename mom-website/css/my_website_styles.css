@@ -1,0 +1,52 @@
+/* TODO body {
+    font-family: 'Old Standard TT', serif;
+    font-weight: 300;
+}*/
+
+.subtitle,
+#footer {
+    text-align: center;
+}
+
+hr.divider {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.img-responsive {
+    cursor: pointer;
+    box-shadow: 0.5px 2px 2px #b6ebf9;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+
+.modal .img-responsive {
+    display: flex;
+    margin: auto;
+    max-width: 100%;
+}
+
+
+.col-4 {
+    width: 33%;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.title-logo {
+    /*100x100 square*/
+    margin-top: 20px;
+    padding: 8px;
+    box-shadow: 0.5px 2px 2px #b6ebf9;
+    border-radius: 2px;
+}
+
+.work a {
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+}
